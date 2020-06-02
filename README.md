@@ -6,7 +6,7 @@ My collection of labs in Python
 <li>Chapter 2 Labs</li>
 <li>Chapter 3 Labs</li>
 <li>Chapter 4 Labs</li>
-<li>Chapter 6 Labs</li>
+<li>Chapter 6 Labs</li></ol>
 
 <h3>My Projects</h3>
 <ol><li>House Election Statewide Shares</li>
