@@ -20,6 +20,9 @@ My collection of labs in Python
   
 <h3>Springboard</h3>
 <ol><li>Ceasar Cipher</li>
-  <li></li>
-  <li></li>
-<li></li></ol>
+  <li>Stacks</li>
+  <li>Banking</li>
+  <li>Hot Potato</li>
+  <li>Sorting</li>
+  <li>Project 5.9</li>
+<li>Project 5.10</li></ol>
