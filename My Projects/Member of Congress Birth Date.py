@@ -1,13 +1,8 @@
 from urllib import request
 
-#url_list = ['https://en.wikipedia.org/wiki/Chuck_Schumer',\
-#           'https://en.wikipedia.org/wiki/Mitch_McConnell',\
-#           'https://en.wikipedia.org/wiki/Paul_Ryan']
-
 url_file_handle = open('c:\\users\\saraa\\Desktop\\1.txt')
 url_list = url_file_handle.readlines()
 url_file_handle.close()
-print(url_list)
 rep_dict = {}
 bday_bytes = '<span class="bday">'.encode(encoding='UTF-8')
 bday_end_bytes = '</span>'.encode(encoding='UTF-8')
