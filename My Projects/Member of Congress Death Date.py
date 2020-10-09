@@ -1,11 +1,11 @@
 from urllib import request
 
-url_file_handle = open('c:\\users\\saraa\\Desktop\\9.txt')
+url_file_handle = open('c:\\users\\saraa\\OneDrive\\Desktop\\1.txt')
 url_list = url_file_handle.readlines()
 url_file_handle.close()
 rep_dict = {}
-dday_bytes = '<span class="dday deathdate">'.encode(encoding='UTF-8')
-dday_end_bytes = '</span>'.encode(encoding='UTF-8')
+dday_bytes = '<th scope="row">Died</th>'.encode(encoding='UTF-8')
+dday_end_bytes = ' (aged'.encode(encoding='UTF-8')
 sep_bytes = '/'.encode(encoding='UTF-8')
 dday_length = len(dday_bytes)
 
