@@ -1,5 +1,5 @@
 # PythonLabs
-My collection of labs in Python
+My collection of labs in Python:
 
 <h3>Python Institute</h3>
 <ol>
